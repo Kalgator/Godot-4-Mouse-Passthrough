@@ -1,0 +1,15 @@
+# Godot editor cache and metadata
+.godot/
+
+# Godot import cache (auto‑generated)
+.import/
+
+# Temporary resource IDs
+*.uid
+
+# Export presets (opcionales, contienen rutas locales)
+export_presets.cfg
+
+# OS junk files
+.DS_Store
+Thumbs.db
